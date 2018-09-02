@@ -12,6 +12,14 @@ All the docs are currently super out of date because we were busy preparing for 
 
 Tweet @t3hub3rk1tten if it's taking too long or you need help!
 
+## Starting Server
+
+use either the startup script or vanilla python command to start the server:
+
+`./start_server.sh`
+
+`python main.py`
+
 ## License
 
 Open source under the [MIT License](license.md).
